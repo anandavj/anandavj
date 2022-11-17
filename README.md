@@ -37,6 +37,7 @@ I'm Ananda Vijaya, a programmer who lives in Indonesia. I am currently working a
 - Docker (Learning Phase)
 - Kubernetes (Learning Phase)
 - Bash
+- _Challange me, Give me time to learn it, and I'll write it down here_
 
 ## ‍💻 Software I often use —
 - Visual Studio Code
