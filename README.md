@@ -4,7 +4,7 @@
   [<img src="https://img.shields.io/badge/linkedin-4A4A4A?style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/anandavj/)&nbsp;&nbsp;
   [<img src="https://img.shields.io/badge/Gitlab-4A4A4A?style=for-the-badge&logo=gitlab&logoColor=white">](https://gitlab.com/anandavj/)&nbsp;&nbsp;
   [<img src="https://img.shields.io/badge/Hackerrank-4A4A4A?style=for-the-badge&logo=hackerrank&logoColor=black">](https://www.hackerrank.com/anandavj)&nbsp;&nbsp;
-  [<img src="https://img.shields.io/badge/Leetcode-4A4A4A?style=for-the-badge&logo=leetcode">](https://www.hackerrank.com/anandavj/)
+  [<img src="https://img.shields.io/badge/Leetcode-4A4A4A?style=for-the-badge&logo=leetcode">](https://www.leetcode.com/shininga/)
   
 </div>
 
