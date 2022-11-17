@@ -21,7 +21,6 @@ I'm Ananda Vijaya, a full-stack developer who lives in Indonesia. I am currently
 - Love to solve competitive programming questions
 - Learning to automate things (IaaC, CaaC, etc..)
 - Learning on how to create a well-documented project using OPEN API and GitBook
-</br>
 
 ## 🛠️ Currently, I am able to use —
 - Javascript (Client-side <Vue.js>)
@@ -37,10 +36,12 @@ I'm Ananda Vijaya, a full-stack developer who lives in Indonesia. I am currently
 - Docker (Learning Phase)
 - Kubernetes (Learning Phase)
 - Bash
-</br>
 
 ## ‍💻 Software I often use —
 - Visual Studio Code
 - Terminal
 - Microsoft Edge
 - Postman
+
+## 📈 My Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=anandavj&show_icons=true&theme=dark"/>
