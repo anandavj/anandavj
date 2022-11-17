@@ -14,9 +14,10 @@
 </p>
 
 Hi,
-I'm Ananda Vijaya, a full-stack developer who lives in Indonesia. I am currently working at [Samsung Research Indonesia](https://www.samsung.com/id/srin/). I write bug that disguise as feature _(Just Kidding- or not?)_
+I'm Ananda Vijaya, a programmer who lives in Indonesia. I am currently working at [Samsung Research Indonesia](https://www.samsung.com/id/srin/). I write bug that disguise as feature _(Just Kidding- or not?)_
 
 ## 💬 About Me
+- Got my Bachelor Degree in Computer Science at Diponegoro University, Semarang, Indonesia
 - working as Full-stack Developer **AND** Cloud Engineer
 - Love to solve competitive programming questions
 - Learning to automate things (IaaC, CaaC, etc..)
