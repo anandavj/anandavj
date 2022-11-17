@@ -14,7 +14,7 @@
 </p>
 
 Hi,
-I'm Ananda Vijaya, a programmer who lives in Indonesia. I am currently working at [Samsung Research Indonesia](https://www.samsung.com/id/srin/). I write bug that disguise as feature _(Just Kidding- or not?)_
+I'm Ananda Vijaya, a programmer who lives in Indonesia. I am currently working at [Samsung Research Indonesia](https://www.samsung.com/id/srin/). I write bugs that disguise as features _(Just Kidding- or not?)_
 
 ## 💬 About Me
 - Got my Bachelor Degree in Computer Science at Diponegoro University, Semarang, Indonesia
@@ -40,10 +40,10 @@ I'm Ananda Vijaya, a programmer who lives in Indonesia. I am currently working a
 - _Challange me, Give me time to learn it, and I'll write it down here_
 
 ## ‍💻 Software I often use —
-- Visual Studio Code
+- Visual Studio Code & Intellij
 - Terminal
-- Microsoft Edge
 - Postman
+- Debian Based Operating System & Windows 10
 
 ## 📈 My Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=anandavj&show_icons=true&theme=dark"/>
