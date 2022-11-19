@@ -41,6 +41,7 @@ I'm Ananda Vijaya, a programmer who lives in Indonesia. I am currently working a
 
 ## ‍💻 Software I often use —
 - Visual Studio Code & Intellij
+- Vi(m) _(yes, I finally learn how to exit vi(m))_
 - Terminal
 - Postman
 - Debian Based Operating System & Windows 10
